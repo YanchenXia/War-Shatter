@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bullet",
-    "path":"sprites/spr_bullet/spr_bullet.yy",
+    "name":"spr_player_bullet",
+    "path":"sprites/spr_player_bullet/spr_player_bullet.yy",
   },
   "spriteMaskId":null,
   "visible":true,
