@@ -22,6 +22,6 @@ if (canShoot) {
     if (keyboard_check(vk_space)) {
         canShoot = false;
         alarm[0] = game_get_speed(gamespeed_fps) / 2; // 2 bullets per second
-        instance_create_layer(x, y - sprite_height / 2, "Instances", obj_bullet);
+        instance_create_layer(x, y - sprite_height / 2, "Instances", obj_player_bullet);
     }
 }
