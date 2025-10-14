@@ -1,2 +1,2 @@
-speed = 6;
-direction = 270;
+speed = 10;
+direction = 90; 
