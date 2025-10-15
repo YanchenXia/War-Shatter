@@ -41,6 +41,7 @@
   "name":"War Shatter",
   "resources":[
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
+    {"id":{"name":"fnt_title","path":"fonts/fnt_title/fnt_title.yy",},},
     {"id":{"name":"obj_dogtag","path":"objects/obj_dogtag/obj_dogtag.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_level_exit","path":"objects/obj_level_exit/obj_level_exit.yy",},},
@@ -55,6 +56,7 @@
     {"id":{"name":"obj_rock5","path":"objects/obj_rock5/obj_rock5.yy",},},
     {"id":{"name":"obj_setting_button","path":"objects/obj_setting_button/obj_setting_button.yy",},},
     {"id":{"name":"obj_start_button","path":"objects/obj_start_button/obj_start_button.yy",},},
+    {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},},
     {"id":{"name":"obj_tutorial_button","path":"objects/obj_tutorial_button/obj_tutorial_button.yy",},},
     {"id":{"name":"A_rm_home","path":"rooms/A_rm_home/A_rm_home.yy",},},
     {"id":{"name":"B_rm_select","path":"rooms/B_rm_select/B_rm_select.yy",},},
