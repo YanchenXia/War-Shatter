@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"ui_buttons",
-    "path":"folders/Sprites/ui_buttons.yy",
+    "path":"folders/Sprites/game_sprites/ui_buttons.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
