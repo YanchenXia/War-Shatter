@@ -1,20 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall_breakable",
+  "%Name":"obj_shatter",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player_bullet","path":"objects/obj_player_bullet/obj_player_bullet.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_wall_breakable",
+  "name":"obj_shatter",
   "overriddenProperties":[],
   "parent":{
     "name":"game_obj",
     "path":"folders/Objects/game_obj.yy",
   },
-  "parentObjectId":{
-    "name":"obj_wall",
-    "path":"objects/obj_wall/obj_wall.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_wall_breakable",
-    "path":"sprites/spr_wall_breakable/spr_wall_breakable.yy",
+    "name":"spr_shatter",
+    "path":"sprites/spr_shatter/spr_shatter.yy",
   },
   "spriteMaskId":null,
   "visible":true,
