@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_rock5",
+  "%Name":"obj_wall_breakable",
   "eventList":[],
   "managed":true,
-  "name":"obj_rock5",
+  "name":"obj_wall_breakable",
   "overriddenProperties":[],
   "parent":{
     "name":"game_obj",
     "path":"folders/Objects/game_obj.yy",
   },
-  "parentObjectId":{
-    "name":"obj_rock4",
-    "path":"objects/obj_rock4/obj_rock4.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_rock5",
-    "path":"sprites/spr_rock5/spr_rock5.yy",
+    "name":"spr_wall_breakable",
+    "path":"sprites/spr_wall_breakable/spr_wall_breakable.yy",
   },
   "spriteMaskId":null,
   "visible":true,

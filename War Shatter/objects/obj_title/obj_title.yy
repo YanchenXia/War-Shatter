@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_rock5",
-  "eventList":[],
+  "%Name":"obj_title",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_rock5",
+  "name":"obj_title",
   "overriddenProperties":[],
   "parent":{
-    "name":"game_obj",
-    "path":"folders/Objects/game_obj.yy",
+    "name":"button_obj",
+    "path":"folders/Objects/button_obj.yy",
   },
-  "parentObjectId":{
-    "name":"obj_rock4",
-    "path":"objects/obj_rock4/obj_rock4.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_rock5",
-    "path":"sprites/spr_rock5/spr_rock5.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
