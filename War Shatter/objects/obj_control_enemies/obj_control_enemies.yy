@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_enemy",
-  "eventList":[],
+  "%Name":"obj_control_enemies",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_enemy",
+  "name":"obj_control_enemies",
   "overriddenProperties":[],
   "parent":{
-    "name":"game_obj",
-    "path":"folders/Objects/game_obj.yy",
+    "name":"button_obj",
+    "path":"folders/Objects/button_obj.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_enemy",
-    "path":"sprites/spr_enemy/spr_enemy.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
