@@ -1,5 +1,7 @@
-// Move based on direction and speed
-motion_add(direction, 0);
+x += lengthdir_x(speed, direction);
+y += lengthdir_y(speed, direction);
 
-// Destroy if it leaves the room
-if (y < 0) instance_destroy();
+
+if (x < 0 || x > room_width || y < 0 || y > room_height) {
+    instance_destroy();
+}
