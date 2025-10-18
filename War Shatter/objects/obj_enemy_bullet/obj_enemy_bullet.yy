@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_rock1",
-  "eventList":[],
+  "%Name":"obj_enemy_bullet",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_rock1",
+  "name":"obj_enemy_bullet",
   "overriddenProperties":[],
   "parent":{
     "name":"game_obj",
     "path":"folders/Objects/game_obj.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_player_bullet",
+    "path":"objects/obj_player_bullet/obj_player_bullet.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -26,10 +31,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_rock1",
-    "path":"sprites/spr_rock1/spr_rock1.yy",
+    "name":"spr_player_bullet",
+    "path":"sprites/spr_player_bullet/spr_player_bullet.yy",
   },
   "spriteMaskId":null,
   "visible":true,

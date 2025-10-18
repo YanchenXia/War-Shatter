@@ -41,6 +41,7 @@
   "name":"War Shatter",
   "resources":[
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
+    {"id":{"name":"fnt_score","path":"fonts/fnt_score/fnt_score.yy",},},
     {"id":{"name":"fnt_title","path":"fonts/fnt_title/fnt_title.yy",},},
     {"id":{"name":"fnt_tutorial","path":"fonts/fnt_tutorial/fnt_tutorial.yy",},},
     {"id":{"name":"obj_control_breakablewall","path":"objects/obj_control_breakablewall/obj_control_breakablewall.yy",},},
@@ -49,6 +50,7 @@
     {"id":{"name":"obj_control_wall","path":"objects/obj_control_wall/obj_control_wall.yy",},},
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},},
     {"id":{"name":"obj_dogtag","path":"objects/obj_dogtag/obj_dogtag.yy",},},
+    {"id":{"name":"obj_enemy_bullet","path":"objects/obj_enemy_bullet/obj_enemy_bullet.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_explosion2","path":"objects/obj_explosion2/obj_explosion2.yy",},},
     {"id":{"name":"obj_level_exit","path":"objects/obj_level_exit/obj_level_exit.yy",},},
@@ -61,6 +63,7 @@
     {"id":{"name":"obj_rock3","path":"objects/obj_rock3/obj_rock3.yy",},},
     {"id":{"name":"obj_rock4","path":"objects/obj_rock4/obj_rock4.yy",},},
     {"id":{"name":"obj_rock5","path":"objects/obj_rock5/obj_rock5.yy",},},
+    {"id":{"name":"obj_scoreboard","path":"objects/obj_scoreboard/obj_scoreboard.yy",},},
     {"id":{"name":"obj_setting_button","path":"objects/obj_setting_button/obj_setting_button.yy",},},
     {"id":{"name":"obj_shatter","path":"objects/obj_shatter/obj_shatter.yy",},},
     {"id":{"name":"obj_start_button","path":"objects/obj_start_button/obj_start_button.yy",},},
