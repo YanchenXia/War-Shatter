@@ -18,7 +18,7 @@ Instructions:
 
 Cheats:
 ===============
-Invincibility - Press H key.
+Add 100 Lives - Press H key.
 
 
 Music and Sound Effects:
