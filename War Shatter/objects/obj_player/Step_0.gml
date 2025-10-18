@@ -81,6 +81,8 @@ if (canShoot) {
         bullet.direction = bullet_direction;
 		bullet.image_angle = bullet_direction + -90;
         bullet.speed = 10;
+		
+		audio_play_sound(shot_sfx, 1, false)
     }
 }
 
