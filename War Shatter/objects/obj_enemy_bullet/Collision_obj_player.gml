@@ -1,3 +1,3 @@
-inflict_damage(10)
+inflict_damage(1)
 
 instance_destroy()
