@@ -1,6 +1,6 @@
 if(instance_exists(obj_player)){
-	if(distance_to_object(obj_player)< 100){
+	if(distance_to_object(obj_player)< 300){
 		direction = point_direction(x,y,obj_player.x,obj_player.y)
-		speed = 2
+		speed = 5
 	}
 }
