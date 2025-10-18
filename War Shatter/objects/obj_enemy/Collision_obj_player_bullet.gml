@@ -17,3 +17,8 @@ instance_create_layer(x, y, "Instances", obj_dogtag);
 
 instance_destroy(other);
 instance_destroy();
+
+with (obj_scoreboard) {
+    score += 10
+}
+
