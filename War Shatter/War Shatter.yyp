@@ -72,6 +72,7 @@
     {"id":{"name":"obj_tutorial_button","path":"objects/obj_tutorial_button/obj_tutorial_button.yy",},},
     {"id":{"name":"obj_wall_breakable","path":"objects/obj_wall_breakable/obj_wall_breakable.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
+    {"id":{"name":"room_music","path":"objects/room_music/room_music.yy",},},
     {"id":{"name":"A_rm_home","path":"rooms/A_rm_home/A_rm_home.yy",},},
     {"id":{"name":"B_rm_select","path":"rooms/B_rm_select/B_rm_select.yy",},},
     {"id":{"name":"C_rm_settings","path":"rooms/C_rm_settings/C_rm_settings.yy",},},
