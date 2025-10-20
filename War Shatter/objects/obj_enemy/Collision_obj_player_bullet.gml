@@ -12,7 +12,7 @@ part_type_gravity(part_type, 0, 270);
 part_particles_create(part_sys, x, y, part_type, 20);
 
 
-instance_create_layer(x, y, "Instances", obj_explosion2);
+instance_create_layer(x, y, "Instances", obj_shatter);
 instance_create_layer(x, y, "Instances", obj_dogtag);
 
 instance_destroy(other);
