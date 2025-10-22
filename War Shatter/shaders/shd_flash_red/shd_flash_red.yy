@@ -1,7 +1,7 @@
 {
   "$GMShader":"",
-  "%Name":"Shader1",
-  "name":"Shader1",
+  "%Name":"shd_flash_red",
+  "name":"shd_flash_red",
   "parent":{
     "name":"Shaders",
     "path":"folders/Shaders.yy",

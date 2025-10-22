@@ -1,7 +1,7 @@
 varying vec2 v_vTexcoord;
 varying vec4 v_vColour;
 
-uniform float flash_amount; // 0 to 1, controls red flash intensity
+uniform float flash_amount; 
 
 void main()
 {

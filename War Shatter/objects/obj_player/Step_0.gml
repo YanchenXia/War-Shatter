@@ -86,6 +86,8 @@ if (canShoot) {
     }
 }
 
-
+if (flash_timer > 0) {
+    flash_timer--;
+}
 
 

@@ -1,14 +1,9 @@
-// Apply the color tint shader
-shader_set(shd_color_tint);
-
-// Get the location of the uniform in the shader
-var tint_loc = shader_get_uniform(shd_color_tint, "u_tint_color");
-
-// Send a color to the shader (RGB from 0.0–1.0)
-shader_set_uniform_f(tint_loc, 0.5, 1.0, 0.5); // greenish tint example
-
-// Draw the sprite
-draw_self();
-
-// Reset shader so other objects aren’t affected
-shader_reset();
+if (flash_timer > 0) {
+    shader_set(shd_flash_red);
+    var uni_flash = shader_get_uniform(shd_flash_red, "flash_amount");
+    shader_set_uniform_f(uni_flash, flash_timer / flash_duration);
+    draw_self();
+    shader_reset();
+} else {
+    draw_self();
+}

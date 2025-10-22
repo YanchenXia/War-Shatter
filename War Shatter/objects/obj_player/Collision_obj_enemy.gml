@@ -8,3 +8,4 @@ instance_create_layer(x, y, "Instances", obj_dogtag);
 with (obj_scoreboard) {
     score += 10
 }
+flash_timer = flash_duration;

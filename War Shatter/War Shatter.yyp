@@ -87,7 +87,7 @@
     {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
     {"id":{"name":"scp_damage","path":"scripts/scp_damage/scp_damage.yy",},},
     {"id":{"name":"seq_win_fade","path":"sequences/seq_win_fade/seq_win_fade.yy",},},
-    {"id":{"name":"Shader1","path":"shaders/Shader1/Shader1.yy",},},
+    {"id":{"name":"shd_flash_red","path":"shaders/shd_flash_red/shd_flash_red.yy",},},
     {"id":{"name":"explosion_sfx","path":"sounds/explosion_sfx/explosion_sfx.yy",},},
     {"id":{"name":"gameplay_music","path":"sounds/gameplay_music/gameplay_music.yy",},},
     {"id":{"name":"screen_music","path":"sounds/screen_music/screen_music.yy",},},
