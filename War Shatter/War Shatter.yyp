@@ -91,6 +91,7 @@
     {"id":{"name":"explosion_sfx","path":"sounds/explosion_sfx/explosion_sfx.yy",},},
     {"id":{"name":"gameplay_music","path":"sounds/gameplay_music/gameplay_music.yy",},},
     {"id":{"name":"screen_music","path":"sounds/screen_music/screen_music.yy",},},
+    {"id":{"name":"shatter_sfx","path":"sounds/shatter_sfx/shatter_sfx.yy",},},
     {"id":{"name":"shot_sfx","path":"sounds/shot_sfx/shot_sfx.yy",},},
     {"id":{"name":"spr_bar_background","path":"sprites/spr_bar_background/spr_bar_background.yy",},},
     {"id":{"name":"spr_button_parent","path":"sprites/spr_button_parent/spr_button_parent.yy",},},
