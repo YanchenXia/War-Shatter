@@ -1,3 +1,4 @@
+image_angle = direction + 90
 if(instance_exists(obj_player)){
 	if(distance_to_object(obj_player)< 200){
 		path_end()
@@ -6,3 +7,4 @@ if(instance_exists(obj_player)){
 		speed = 3
 	}
 }
+
